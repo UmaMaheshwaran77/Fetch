@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+
+.card{
+    margin-top: 35px;
+    margin-left: 35px;
+    height: 180px;
+    width: 250px;
+    border: 8px solid brown !important;
+   color: blueviolet;
+   background-color: white;
+
+}
+h1 {
+    margin-top: auto;
+    margin-left: auto;
+    padding-top: 5% ;
+    color: rgb(0, 21, 255);
+
+}
